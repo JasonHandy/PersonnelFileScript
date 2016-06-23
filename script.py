@@ -1,5 +1,4 @@
 import os
-import tkinter
 
 folder_path = os.path.expanduser('~') + '/Desktop'
 text_path = folder_path + 'list.txt'
